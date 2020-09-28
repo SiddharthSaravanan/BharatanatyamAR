@@ -40,3 +40,5 @@ relative positions of limbs are known and the angles depend on the basic need of
 
 If such an authoring system goes operational, it cab become a platform for building the critical mass of datasets and expert involvement to take BN research and automation to 
 the next level.
+
+This project is done in collaboration.
