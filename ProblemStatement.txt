@@ -38,7 +38,7 @@ render the animations based on BN coding that is not numerical or geometric but 
 the dancer or does not necessarily mean the knees bend at a 90 degree angle, but instead it depends on the dancer's physique and body type. In the famous Natraja pose, only 
 relative positions of limbs are known and the angles depend on the basic need of achieving stability and balance.
 
-If such an authoring system goes operational, it cab become a platform for building the critical mass of datasets and expert involvement to take BN research and automation to 
+If such an authoring system goes operational, it can become a platform for building the critical mass of datasets and expert involvement to take BN research and automation to 
 the next level.
 
-This project is done in collaboration.
+This project is done in collaboration with other students and faculty at BITS Pilani K K Birla goa campus and Goa University.
